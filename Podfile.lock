@@ -1,0 +1,22 @@
+PODS:
+  - CocoaLumberjack (3.5.3):
+    - CocoaLumberjack/Core (= 3.5.3)
+  - CocoaLumberjack/Core (3.5.3)
+  - NKOColorPickerView (0.5)
+
+DEPENDENCIES:
+  - CocoaLumberjack
+  - NKOColorPickerView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaLumberjack
+    - NKOColorPickerView
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+  NKOColorPickerView: 895ca86fe5bd16f27c311ce8f5888907efee29ad
+
+PODFILE CHECKSUM: 45f85edd78d3105aa04e9622b7c193412b596d7b
+
+COCOAPODS: 1.7.1
